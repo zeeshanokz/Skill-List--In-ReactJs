@@ -17,7 +17,7 @@ const data = [
   {
     skill: "Next.js",
     level: "intermediate",
-    color: "#000000",
+    color: "gray",
   },
   {
     skill: "Tailwind CSS",

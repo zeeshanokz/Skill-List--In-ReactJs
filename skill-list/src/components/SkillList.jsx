@@ -4,7 +4,7 @@ import Skill from './Skill';
 
 function SkillList() {
   return (
-    <div>
+    <div className='skill-list'>
         {data.map((dt) => (
             <Skill skill= {dt.skill} level= {dt.level} color= {dt.color} />
         )
